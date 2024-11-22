@@ -13,8 +13,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/ingrid-paola-granados-moreno/)
 
-https://img.shields.io/badge/e-mail-solo_ingrid@hotmail.com-blue
-
 
 <!--
 **SoloIngrid/SoloIngrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
