@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://www.canva.com/design/DAGW_clXcVk/EXC-gcyHVGdRDkNk-39C4g/view?utm_content=DAGW_clXcVk&utm_campaign=designshare&utm_medium=link&utm_source=editor" width="800"/>
+</div>
+
 ## Hola, mi nombre es Ingrid. 👋
 
 - ⚡ Sobre mi ...
