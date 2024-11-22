@@ -18,7 +18,7 @@
  
 > Cuento con experiencia en la ejecución de pruebas automatizadas, búsqueda de información en bases de datos, y diseño y ejecución de pruebas para sitios web, aplicaciones y APIs. Durante mi formación en el bootcamp, he trabajado en diversos proyectos que han fortalecido mi capacidad de adaptación y aprendizaje continuo. Esto me ha permitido mantenerme al día con las nuevas tendencias y tecnologías en el ámbito del aseguramiento de la calidad.
 
-[LinkedIn](https://www.linkedin.com/in/ingrid-paola-granados-moreno/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/noelianav/](https://www.linkedin.com/in/ingrid-paola-granados-moreno/))
 
 
 <!--
