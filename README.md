@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://www.canva.com/design/DAGW_clXcVk/EXC-gcyHVGdRDkNk-39C4g/view?utm_content=DAGW_clXcVk&utm_campaign=designshare&utm_medium=link&utm_source=editor" width="800"/>
+  <img decoding="async" src="https://github.com/user-attachments/assets/41a816c2-d248-4de4-92d1-f795a293f08f" width="800"/>
 </div>
+
 
 ## Hola, mi nombre es Ingrid. 👋
 
@@ -21,6 +22,10 @@
 
 
 <!--
+
+![Ingrid Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/user-attachments/assets/41a816c2-d248-4de4-92d1-f795a293f08f)
+
+
 **SoloIngrid/SoloIngrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
