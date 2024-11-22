@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, mi nombre es Ingrid. 👋
 
 - Soy una estudiante de QA Engineer. 
 - Apasionado por flujos de trabajo ágiles eficientes y herramientas modernas de control de calidad como JIRA, Postman, API y SQL.
