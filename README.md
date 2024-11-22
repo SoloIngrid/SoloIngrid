@@ -2,8 +2,7 @@
   <img decoding="async" src="https://github.com/user-attachments/assets/41a816c2-d248-4de4-92d1-f795a293f08f" width="800"/>
 </div>
 
-
-## Hola, mi nombre es Ingrid. 👋
+## Hola, ¡Bienvenido a mi perfil! 👋
 
 - ⚡ Sobre mi ...
 
