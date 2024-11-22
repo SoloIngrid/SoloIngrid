@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- Soy una estudiante de QA Engineer. 
+- Apasionado por flujos de trabajo ágiles eficientes y herramientas modernas de control de calidad como JIRA, Postman, API y SQL.
+
+
+
+
+
+
 <!--
 **SoloIngrid/SoloIngrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
