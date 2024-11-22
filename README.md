@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/user-attachments/assets/41a816c2-d248-4de4-92d1-f795a293f08f" width="800"/>
+  <img decoding="async" src="https://github.com/user-attachments/assets/9c81188d-35eb-4337-b2f9-eb32032a1059" width="800"/>
 </div>
 
 ## Hola, ¡Bienvenido a mi perfil! 👋
@@ -29,7 +29,8 @@
 
 <!--
 
-![Ingrid Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/user-attachments/assets/41a816c2-d248-4de4-92d1-f795a293f08f)
+![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/user-attachments/assets/9c81188d-35eb-4337-b2f9-eb32032a1059)
+
 
 
 **SoloIngrid/SoloIngrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
