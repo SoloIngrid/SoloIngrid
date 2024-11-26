@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="(https://github.com/user-attachments/assets/dd484b60-82f2-49fa-beab-2cdbfe6a320a)" width="800"/>
+  <img decoding="async" src="https://github.com/user-attachments/assets/dd484b60-82f2-49fa-beab-2cdbfe6a320a" width="800"/>
 </div>
 
 ## Hola, ¡Bienvenido a mi perfil! 👋
