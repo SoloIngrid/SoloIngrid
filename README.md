@@ -9,7 +9,7 @@
 > Soy una QA Engineer. 
 > Apasionado por flujos de trabajo ágiles eficientes y herramientas modernas de control de calidad como JIRA, Postman, API y SQL.
 
-- 🌱 Actualmente estoy aprendiendo ...
+- 🌱 Actualmente estoy ...
 
 > Estoy perfeccionando mis habilidades en el uso de herramientas de control de calidad para sitios web y aplicaciones, así como en el desarrollo con Python. Esta experiencia me ha permitido profesionalizar mi pasión por el pensamiento crítico, la resolución de problemas, la atención al detalle y la tecnología, áreas que considero esenciales para brindar un impacto significativo en el aseguramiento de la calidad.
 
